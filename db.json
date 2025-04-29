@@ -1,0 +1,12 @@
+{
+    "meals": [
+      {
+        "id": 1,
+        "name": "قرمه‌سبزی",
+        "image": "https://your-image-url.jpg",
+        "ingredients": ["گوشت", "لوبیا", "سبزی"],
+        "instructions": "اول گوشت را با پیاز..."
+      }
+    ]
+  }
+  
