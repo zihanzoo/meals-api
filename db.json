@@ -2,7 +2,6 @@
     id: '1',
     name: 'چلوکباب',
     categoryId: '1',
-    image: require('../assets/images/irani-food.jpg'),
     ingredients: ['برنج', 'گوشت', 'زعفران', 'نمک'],
     instructions: 'کباب‌ها را روی منقل قرار دهید و با برنج زعفرانی سرو کنید.',
   },
@@ -10,7 +9,6 @@
     id: '',
     name: 'چلوکباب',
     categoryId: '1',
-    image: require('../assets/images/irani-food.jpg'),
     ingredients: ['برنج', 'گوشت', 'زعفران', 'نمک'],
     instructions: 'کباب‌ها را روی منقل قرار دهید و با برنج زعفرانی سرو کنید.',
   },
@@ -18,7 +16,6 @@
     id: '55',
     name: 'چلوکباب',
     categoryId: '1',
-    image: require('../assets/images/irani-food.jpg'),
     ingredients: ['برنج', 'گوشت', 'زعفران', 'نمک'],
     instructions: 'کباب‌ها را روی منقل قرار دهید و با برنج زعفرانی سرو کنید.',
   },
@@ -26,7 +23,6 @@
     id: '2',
     name: 'پیتزا مارگاریتا',
     categoryId: '2',
-    image: require('../assets/images/foreign-food.jpg'),
     ingredients: ['پنیر', 'گوجه', 'خمیر پیتزا'],
     instructions: 'پیتزا را در فر بپزید تا پنیر کش‌دار شود.',
   },
@@ -34,7 +30,6 @@
     id: '3',
     name: 'کیک شکلاتی',
     categoryId: '3',  // مربوط به دسر
-    image: require('../assets/images/foreign-food.jpg'),
     ingredients: ['پنیر', 'گوجه', 'خمیر پیتزا'],
     instructions: 'پیتزا را در فر بپزید تا پنیر کش‌دار شود.',
   },
@@ -42,7 +37,6 @@
     id: '4',
     name: 'سالاد سبزیجات',
     categoryId: '4',  // غذای رژیمی
-    image: require('../assets/images/foreign-food.jpg'),
     ingredients: ['پنیر', 'گوجه', 'خمیر پیتزا'],
     instructions: 'پیتزا را در فر بپزید تا پنیر کش‌دار شود.',
   },
@@ -50,7 +44,6 @@
     id: '5',
     name: 'ساندویچ مرغ',
     categoryId: '5',  // غذای سریع
-    image: require('../assets/images/foreign-food.jpg'),
     ingredients: ['پنیر', 'گوجه', 'خمیر پیتزا'],
     instructions: 'پیتزا را در فر بپزید تا پنیر کش‌دار شود.',
   },
@@ -58,7 +51,6 @@
     id: '6',
     name: 'سوپ گوجه',
     categoryId: '6',  // سوپ و آش
-    image: require('../assets/images/foreign-food.jpg'),
     ingredients: ['پنیر', 'گوجه', 'خمیر پیتزا'],
     instructions: 'پیتزا را در فر بپزید تا پنیر کش‌دار شود.',
   },
