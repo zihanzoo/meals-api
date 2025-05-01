@@ -19,7 +19,7 @@
     "id": "3",
     "name": "فسنجان",
     "categoryId": "1",
-    "image": "images/meal_3.jpg",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746118982/Fasanjun-with-minced-meat_oacbmk.jpg",
     "ingredients": ["گردو", "رب انار", "مرغ", "پیاز", "نمک"],
     "instructions": "گردو را آسیاب کرده با رب انار و مرغ بپزید تا غلیظ شود."
   },
