@@ -3,7 +3,7 @@
     "id": "1",
     "name": "چلوکباب",
     "categoryId": "1",
-    "image": "images/meal_1.jpg",
+    "image": "https://collection.cloudinary.com/dd9toqv7r/2a70845a96fa5b39be753b21d84a88eb",
     "ingredients": ["برنج", "گوشت گوسفند", "زعفران", "نمک", "زردچوبه"],
     "instructions": "گوشت را با ادویه مزه دار کنید. برنج را آبکش کرده و گوشت را کباب کنید."
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "name": "قرمه سبزی",
     "categoryId": "1",
-    "image": "images/meal_2.jpg",
+    "image": "https://collection.cloudinary.com/dd9toqv7r/a50ec73034a14cc8a3fc6f81b9ce4bfe",
     "ingredients": ["سبزی قرمه", "لوبیا قرمز", "گوشت گوساله", "لیمو عمانی", "پیاز"],
     "instructions": "مواد را با هم بپزید تا غلیظ شود و با برنج سرو کنید."
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "name": "خورشت قیمه",
     "categoryId": "1",
-    "image": "images/meal_4.jpg",
+    "image": "https://collection.cloudinary.com/dd9toqv7r/c52673e7ff7ffdcf38cd7d0454ad6509",
     "ingredients": ["لپه", "گوشت چرخ کرده", "سیب زمینی", "رب گوجه", "زعفران"],
     "instructions": "لپه و گوشت را با رب گوجه بپزید و سیب زمینی سرخ شده اضافه کنید."
   },
