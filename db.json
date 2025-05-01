@@ -3,7 +3,7 @@
     "id": "1",
     "name": "چلوکباب",
     "categoryId": "1",
-    "image": "https://collection.cloudinary.com/dd9toqv7r/2a70845a96fa5b39be753b21d84a88eb",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746126597/IMG_20231027_212520_216_z7a63k.jpg",
     "ingredients": ["برنج", "گوشت گوسفند", "زعفران", "نمک", "زردچوبه"],
     "instructions": "گوشت را با ادویه مزه دار کنید. برنج را آبکش کرده و گوشت را کباب کنید."
   },
@@ -11,7 +11,7 @@
     "id": "2",
     "name": "قرمه سبزی",
     "categoryId": "1",
-    "image": "https://collection.cloudinary.com/dd9toqv7r/a50ec73034a14cc8a3fc6f81b9ce4bfe",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746126681/D9_82_D8_B1_D9_85_D9_87_D8_B3_D8_A8_D8_B2_DB_8C_oz6fg5.webp",
     "ingredients": ["سبزی قرمه", "لوبیا قرمز", "گوشت گوساله", "لیمو عمانی", "پیاز"],
     "instructions": "مواد را با هم بپزید تا غلیظ شود و با برنج سرو کنید."
   },
@@ -27,7 +27,7 @@
     "id": "4",
     "name": "خورشت قیمه",
     "categoryId": "1",
-    "image": "https://collection.cloudinary.com/dd9toqv7r/c52673e7ff7ffdcf38cd7d0454ad6509",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746126729/1200px-Gheymeh_stew_ylppiv.jpg",
     "ingredients": ["لپه", "گوشت چرخ کرده", "سیب زمینی", "رب گوجه", "زعفران"],
     "instructions": "لپه و گوشت را با رب گوجه بپزید و سیب زمینی سرخ شده اضافه کنید."
   },
@@ -35,7 +35,7 @@
     "id": "5",
     "name": "زرشک پلو با مرغ",
     "categoryId": "1",
-    "image": "images/meal_5.jpg",
+    "image": "",
     "ingredients": ["برنج", "مرغ", "زرشک", "زعفران", "پیاز"],
     "instructions": "مرغ را بپزید و با برنج زعفرانی و زرشک سرو کنید."
   },
@@ -43,7 +43,7 @@
     "id": "6",
     "name": "عدس پلو",
     "categoryId": "1",
-    "image": "images/meal_6.jpg",
+    "image": "",
     "ingredients": ["برنج", "عدس", "پیاز", "خرما", "روغن"],
     "instructions": "عدس و برنج را با هم پخته و با پیاز داغ تزئین کنید."
   },
@@ -51,7 +51,7 @@
     "id": "7",
     "name": "سبزی پلو با ماهی",
     "categoryId": "1",
-    "image": "images/meal_7.jpg",
+    "image": "",
     "ingredients": ["برنج", "سبزی معطر", "ماهی سفید", "سیر", "نمک"],
     "instructions": "برنج را با سبزی بپزید و با ماهی سرخ شده سرو کنید."
   },
@@ -59,7 +59,7 @@
     "id": "8",
     "name": "آلبالو پلو",
     "categoryId": "1",
-    "image": "images/meal_8.jpg",
+    "image": "",
     "ingredients": ["برنج", "آلبالو", "شکر", "زعفران", "کره"],
     "instructions": "آلبالو را با شکر پخته و با برنج مخلوط کنید."
   },
