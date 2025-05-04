@@ -1,7 +1,7 @@
 [
 {
   "id":"1",
-  "image":"",
+  "image":"https://res.cloudinary.com/dd9toqv7r/image/upload/v1746126597/IMG_20231027_212520_216_z7a63k.jpg",
   "categoryId": "1",
   "name": "چلوکباب کوبیده",
   "servings": 4,
@@ -57,7 +57,7 @@
     "id": "5",
     "name": "زرشک پلو با مرغ",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746191616/D8_B2_D8_B1_D8_B4_DA_A9-_D9_BE_D9_84_D9_88-_D8_A8_D8_A7-_D9_85_D8_B1_D8_BA-_D9_85_D8_AC_D9_84_D8_B3_DB_8C_dd8mmn.jpg",
     "ingredients": ["برنج", "مرغ", "زرشک", "زعفران", "پیاز"],
     "instructions": "مرغ را بپزید و با برنج زعفرانی و زرشک سرو کنید."
   },
@@ -65,7 +65,7 @@
     "id": "6",
     "name": "عدس پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746191703/Majlisi-rice-lentil_gjpirb.webp",
     "ingredients": ["برنج", "عدس", "پیاز", "خرما", "روغن"],
     "instructions": "عدس و برنج را با هم پخته و با پیاز داغ تزئین کنید."
   },
@@ -73,7 +73,7 @@
     "id": "7",
     "name": "سبزی پلو با ماهی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746364632/D9_85_D8_A7_D9_87_DB_8C_jgcv7w.jpg",
     "ingredients": ["برنج", "سبزی معطر", "ماهی سفید", "سیر", "نمک"],
     "instructions": "برنج را با سبزی بپزید و با ماهی سرخ شده سرو کنید."
   },
@@ -81,7 +81,7 @@
     "id": "8",
     "name": "آلبالو پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192011/D8_B7_D8_B1_D8_B2-_D8_AA_D9_87_DB_8C_D9_87-_D8_A2_D9_84_D8_A8_D8_A7_D9_84_D9_88-_D9_BE_D9_84_D9_88-_D8_A8_D8_A7-_D9_85_D8_B1_D8_A8_D8_A7_DB_8C-_D8_A2_D9_84_D8_A8_D8_A7_D9_84_D9_88_o29gut.jpg",
     "ingredients": ["برنج", "آلبالو", "شکر", "زعفران", "کره"],
     "instructions": "آلبالو را با شکر پخته و با برنج مخلوط کنید."
   },
@@ -89,7 +89,7 @@
     "id": "9",
     "name": "ته چین مرغ",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192063/tahchin-morgh_rcb9f2.webp",
     "ingredients": ["برنج", "مرغ", "ماست", "زعفران", "زرده تخم مرغ"],
     "instructions": "مواد را لایه لایه در قالب چیده و در فر بپزید."
   },
@@ -97,7 +97,7 @@
     "id": "10",
     "name": "دمی باقالی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192115/110252_20copy1695038946_qqevtf.webp",
     "ingredients": ["برنج", "باقالی", "شوید", "گوشت", "پیاز"],
     "instructions": "همه مواد را با هم در قابلمه دم کنید."
   },
