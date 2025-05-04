@@ -265,7 +265,7 @@
     "id": "31",
     "name": "خورشت کرفس",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386089/D8_AE_D9_88_D8_B1_D8_B4_D8_AA-_DA_A9_D8_B1_D9_81_D8_B3_oav26x.webp",
     "ingredients": ["کرفس", "گوشت", "رب گوجه", "لیمو عمانی", "پیاز"],
     "instructions": "کرفس و گوشت را با رب گوجه بپزید."
   },
@@ -273,7 +273,7 @@
     "id": "32",
     "name": "کباب چنجه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386123/DA_AF_D9_88_D8_B4_D8_AA-_D8_A8_D8_B1_D8_A7_DB_8C-_DA_A9_D8_A8_D8_A7_D8_A8-_DA_86_D9_86_D8_AC_D9_87.jpg_lfsfsi.webp",
     "ingredients": ["گوشت ران", "ماست", "پیاز", "زعفران", "نمک"],
     "instructions": "گوشت را در ماست خوابانده و کباب کنید."
   },
@@ -281,14 +281,15 @@
     "id": "33",
     "name": "انار پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386680/anar-polo_jjksgb.jpg",
     "ingredients": ["برنج", "انار", "مرغ", "پسته", "زعفران"],
     "instructions": "برنج را با دانه انار مخلوط کرده و با مرغ سرو کنید."
   },
   {
   "id": 34,
   "name": "خورشت قارچ",
-  "categoryId": 3,
+  "categoryId": "1",
+  "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386278/Mushroom-stew-1_olmpea.jpg",
   "ingredients": [
     "قارچ",
     "گوشت",
@@ -300,13 +301,12 @@
     "رب گوجه‌فرنگی"
   ],
   "instructions": "ابتدا پیاز را خرد کرده و در کمی روغن تفت دهید تا طلایی شود. سپس گوشت را اضافه کرده و با ادویه‌جات تفت دهید. قارچ‌ها را ورقه‌ای خرد کرده و جداگانه در کمی روغن تفت دهید تا آب نیندازند. قارچ را به گوشت اضافه کنید و رب گوجه‌فرنگی را هم اضافه نمایید. در پایان کمی خامه به خورشت اضافه کرده و اجازه دهید تا جا بیفتد. این خورشت را می‌توانید با برنج سرو کنید.",
-  "image": ""
 },
   {
     "id": "35",
     "name": "چلو گوشت",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386329/DA_86_D9_84_D9_88-_DA_AF_D9_88_D8_B4_D8_AA-_D8_AF_D8_B1_D8_A8_D8_A7_D8_B1_DB_8C_u3gwtd.webp",
     "ingredients": ["برنج", "گوشت گوسفند", "زعفران", "دارچین", "کره"],
     "instructions": "گوشت را پخته و با برنج زعفرانی سرو کنید."
   },
@@ -314,7 +314,7 @@
     "id": "36",
     "name": "خورشت هویج",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386374/khoresh-havij_my0vaa.jpg",
     "ingredients": ["هویج", "گوشت", "آلو", "رب گوجه", "شکر"],
     "instructions": "هویج و گوشت را با رب گوجه بپزید."
   },
@@ -322,7 +322,7 @@
     "id": "37",
     "name": "کباب سلطانی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386668/DA_86_D9_84_D9_88_DA_A9_D8_A8_D8_A7_D8_A8-_D8_B3_D9_84_D8_B7_D8_A7_D9_86_DB_8C_atrcoc.jpg",
     "ingredients": ["گوشت گوسفند", "گوشت مرغ", "زعفران", "کره", "نمک"],
     "instructions": "گوشت را به سیخ کشیده و کباب کنید."
   },
@@ -330,7 +330,7 @@
     "id": "38",
     "name": "بادمجان پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386614/171379000_du9hbc.png",
     "ingredients": ["برنج", "بادمجان", "گوشت چرخ کرده", "رب گوجه", "زعفران"],
     "instructions": "بادمجان را سرخ کرده و با برنج و گوشت مخلوط کنید."
   },
@@ -338,7 +338,7 @@
     "id": "39",
     "name": "خورشت گوجه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386899/1483855_613_wtr1pa.jpg",
     "ingredients": ["گوجه", "گوشت", "نعناع", "نمک", "فلفل"],
     "instructions": "گوجه و گوشت را با نعناع بپزید."
   },
@@ -346,7 +346,7 @@
     "id": "40",
     "name": "کباب برگ",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386801/866_img_bdig0q.jpg",
     "ingredients": ["گوشت ران", "روغن زیتون", "پیاز", "زعفران", "نمк"],
     "instructions": "گوشت را به سیخ کشیده و کباب کنید."
   },
@@ -354,7 +354,7 @@
     "id": "41",
     "name": "عدسی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386858/adasi-persian-breakfast_mzx8dn.jpg",
     "ingredients": ["عدس", "پیاز", "نمک", "زردچوبه", "لیمو"],
     "instructions": "عدس را پخته و با پیاز داغ سرو کنید."
   },
@@ -362,7 +362,7 @@
     "id": "42",
     "name": "کله جوش",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386860/kale-joush_cyjr6e.jpg",
     "ingredients": ["ماست", "تخم مرغ", "نعناع", "سیر", "نمک"],
     "instructions": "ماست را با تخم مرغ و سیر بپزید."
   },
@@ -370,7 +370,7 @@
     "id": "43",
     "name": "خورشت لوبیا سبز",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746386949/906_img_dwcxsx.jpg",
     "ingredients": ["لوبیا سبز", "گوشت", "سیب زمینی", "رب گوجه", "زعفران"],
     "instructions": "لوبیا سبز و گوشت را با رب گوجه بپزید."
   },
@@ -378,7 +378,7 @@
     "id": "44",
     "name": "کباب ماستی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387000/jooje-kaba-lari_pnl09t.jpg",
     "ingredients": ["گوشت", "ماست", "سیر", "نمک", "فلفل"],
     "instructions": "گوشت را در ماست خوابانده و کباب کنید."
   },
@@ -386,7 +386,7 @@
     "id": "45",
     "name": "نخود پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387042/Untitled-8-3_y5pkcu.jpg",
     "ingredients": ["برنج", "نخود", "گوشت", "زعفران", "دارچین"],
     "instructions": "نخود و گوشت را با برنج بپزید."
   },
@@ -394,7 +394,7 @@
     "id": "46",
     "name": "خورشت بادمجان",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387111/SFW-badem_qveaxy.jpg",
     "ingredients": ["بادمجان", "گوشت", "رب گوجه", "نعناع", "نمک"],
     "instructions": "بادمجان و گوشت را با رب گوجه بپزید."
   },
@@ -402,7 +402,7 @@
     "id": "47",
     "name": "کباب تابه ای",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387446/Kebeb-Digi-recipe-9_tkxxta.png",
     "ingredients": ["گوشت چرخ کرده", "پیاز", "تخم مرغ", "آرد", "روغن"],
     "instructions": "مواد را مخلوط کرده و در تابه سرخ کنید."
   },
@@ -410,7 +410,7 @@
     "id": "48",
     "name": "خورشت فسنجان سفید",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387492/nokat-fesenjan_xfbopx.jpg",
     "ingredients": ["گردو", "مرغ", "سیر", "نمک", "شکر"],
     "instructions": "گردو را آسیاب کرده و با مرغ بپزید."
   },
@@ -418,7 +418,7 @@
     "id": "49",
     "name": "کباب دیگی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387537/sddefault_qese87.jpg",
     "ingredients": ["گوشت", "سیب زمینی", "گوجه", "روغن", "ادویه"],
     "instructions": "همه مواد را در دیگ لایه لایه چیده و بپزید."
   },
@@ -426,7 +426,7 @@
     "id": "50",
     "name": "خورشت سیب زمینی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746387604/D8_AE_D9_88_D8_B1_D8_B4-_D8_B3_DB_8C_D8_A8-_D8_B2_D9_85_DB_8C_D9_86_DB_8C-_D8_AF_D8_B3_D8_AA_D9_88_D8_B1-_D8_A7_D8_B5_D9_84_DB_8C-_D8_B9_DA_A9_D8_B3_sad9aa.jpg",
     "ingredients": ["سیب زمینی", "گوشت", "رب گوجه", "زردچوبه", "نمک"],
     "instructions": "سیب زمینی و گوشت را با رب گوجه بپزید."
   }
