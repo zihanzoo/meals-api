@@ -97,7 +97,7 @@
     "id": "10",
     "name": "دمی باقالی",
     "categoryId": "1",
-    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192115/110252_20copy1695038946_qqevtf.webp",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746365245/Dami_baghali_Irani_xgzolu.jpg",
     "ingredients": ["برنج", "باقالی", "شوید", "گوشت", "پیاز"],
     "instructions": "همه مواد را با هم در قابلمه دم کنید."
   },
@@ -105,7 +105,7 @@
     "id": "11",
     "name": "کله پاچه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746365569/DA_A9_D9_84_D9_87-_D9_BE_D8_A7_DA_86_D9_87_jwwbd3.jpg",
     "ingredients": ["سر گوسفند", "پاچه", "نمک", "فلفل", "زردچوبه"],
     "instructions": "کله و پاچه را به مدت طولانی بپزید."
   },
@@ -113,7 +113,7 @@
     "id": "12",
     "name": "آش رشته",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746365666/DSC_6144-1_yfmpej.jpg",
     "ingredients": ["رشته", "حبوبات", "سبزی آش", "کشک", "نعناع داغ"],
     "instructions": "همه مواد را با هم پخته و با کشک و نعناع سرو کنید."
   },
@@ -121,7 +121,7 @@
     "id": "13",
     "name": "حلیم",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746365763/46e8748c-7ee4-4e47-bb4c-af02009afa70-_D8_AD_D9_84_DB_8C_D9_85-_DA_AF_D9_86_D8_AF_D9_85_wnfox8.jpg",
     "ingredients": ["گندم", "گوشت", "دارچین", "شکر", "روغن"],
     "instructions": "گندم و گوشت را به مدت طولانی پخته و هم بزنید."
   },
@@ -129,7 +129,7 @@
     "id": "14",
     "name": "کوفته تبریزی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192540/koufte-tabrizi_hzwcnc.jpg",
     "ingredients": ["برنج", "گوشت چرخ کرده", "سبزی", "آلبالو", "تخم مرغ"],
     "instructions": "مواد را مخلوط کرده و به شکل کوفته درآورید و بپزید."
   },
@@ -137,7 +137,7 @@
     "id": "15",
     "name": "دلمه برگ مو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746365946/dolme-barge-mo_vtjopw.webp",
     "ingredients": ["برگ مو", "برنج", "گوشت چرخ کرده", "سبزی", "آلبالو"],
     "instructions": "مواد را در برگ مو پیچیده و بپزید."
   },
@@ -145,7 +145,7 @@
     "id": "16",
     "name": "میرزا قاسمی",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192907/mirza-ghasemi_kbxqmp.jpg",
     "ingredients": ["بادمجان", "گوجه", "سیر", "تخم مرغ", "روغن"],
     "instructions": "بادمجان و گوجه را پخته و با تخم مرغ مخلوط کنید."
   },
@@ -153,7 +153,7 @@
     "id": "17",
     "name": "کباب ترش",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192941/kabab-torsh-min_od3q2t.jpg",
     "ingredients": ["گوشت", "رب انار", "گردو", "پیاز", "سبزی"],
     "instructions": "گوشت را با رب انار و گردو مزه دار کرده و کباب کنید."
   },
@@ -161,7 +161,7 @@
     "id": "18",
     "name": "اشکنه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746192966/eshkene_whsttc.jpg",
     "ingredients": ["تخم مرغ", "پیاز", "زردچوبه", "آرد", "روغن"],
     "instructions": "پیاز را تفت داده و با تخم مرغ و آرد بپزید."
   },
@@ -169,7 +169,7 @@
     "id": "19",
     "name": "خورشت بامیه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746193021/D8_AE_D9_88_D8_B1_D8_B4_D8_AA-_D8_A8_D8_A7_D9_85_DB_8C_D9_87-780x470_rr7saa.webp",
     "ingredients": ["بامیه", "گوشت", "رب گوجه", "لیمو عمانی", "پیاز"],
     "instructions": "بامیه و گوشت را با رب گوجه بپزید."
   },
@@ -177,7 +177,7 @@
     "id": "20",
     "name": "کباب بختیاری",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746366264/tnj8pfsa454fkae61igoguhmj1o23jm0DiGNATefb3mxr12t_vusyuq.webp",
     "ingredients": ["گوشت گوسفند", "سینه مرغ", "پیاز", "زعفران", "نمک"],
     "instructions": "گوشت و مرغ را به سیخ کشیده و کباب کنید."
   },
@@ -185,7 +185,7 @@
     "id": "21",
     "name": "شیرین پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746193129/269994184_401459715104073_1482344286255945408_n_aycwaz.jpg",
     "ingredients": ["برنج", "مرغ", "هویج", "بادام", "زعفران"],
     "instructions": "برنج را با هویج و بادام پخته و با مرغ سرو کنید."
   },
@@ -193,7 +193,7 @@
     "id": "22",
     "name": "خورشت کنگر",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746366635/D8_AE_D9_88_D8_B1_D8_B4-_DA_A9_D9_86_DA_AF_D8_B1_g4mg1e.webp",
     "ingredients": ["کنگر", "گوشت", "رب گوجه", "لیمو عمانی", "پیاز"],
     "instructions": "کنگر و گوشت را با رب گوجه بپزید."
   },
@@ -201,7 +201,7 @@
     "id": "23",
     "name": "کباب کوبیده",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746193293/hq720_uowhyz.jpg",
     "ingredients": ["گوشت چرخ کرده", "پیاز", "زعفران", "نمک", "فلفل"],
     "instructions": "گوشت را مزه دار کرده و به سیخ بکشید و کباب کنید."
   },
@@ -209,15 +209,15 @@
     "id": "24",
     "name": "خورشت آلو اسفناج",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746193380/khoresh-aloo-esfenaj_b7aei2.jpg",
     "ingredients": ["آلو", "اسفناج", "گوشت", "پیاز", "رب گوجه"],
     "instructions": "همه مواد را با هم بپزید تا غلیظ شود."
   },
   {
     "id": "25",
-    "name": "ماست پلو",
+    "name": "عدس پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746366448/nkpbvrmk1lpj8qf8asu6fulf2v4l0v3fGroY8eM4qZjrqKwT_hk93fy.webp",
     "ingredients": ["برنج", "ماست", "مرغ", "زعفران", "کشمش"],
     "instructions": "برنج را با ماست مخلوط کرده و با مرغ سرو کنید."
   },
@@ -225,7 +225,7 @@
     "id": "26",
     "name": "خورشت ریواس",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746194246/1634067619_phhqcx.jpg",
     "ingredients": ["ریواس", "گوشت", "شکر", "پیاز", "نعناع"],
     "instructions": "ریواس و گوشت را با شکر بپزید."
   },
@@ -233,7 +233,7 @@
     "id": "27",
     "name": "چلو ماهیچه",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746193867/persian-lamb-shank-recipe_qjncri.jpg",
     "ingredients": ["برنج", "ماهیچه گوسفند", "زعفران", "دارچین", "نمک"],
     "instructions": "ماهیچه را پخته و با برنج زعفرانی سرو کنید."
   },
@@ -241,7 +241,7 @@
     "id": "28",
     "name": "کباب دنده",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746194341/fdba4dccb7b916b1445397117a4af728QO7LwcQ27nDeAX3J_huw319.webp",
     "ingredients": ["دنده گوسفند", "نمک", "فلفل", "زعفران", "روغن زیتون"],
     "instructions": "دنده را مزه دار کرده و روی ذغال کباب کنید."
   },
@@ -249,7 +249,7 @@
     "id": "29",
     "name": "خورشت به",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746194404/D8_AE_D9_88_D8_B1_D8_B4-_D8_A8_D9_87_yhgrov.jpg",
     "ingredients": ["به", "گوشت", "رب گوجه", "دارچین", "شکر"],
     "instructions": "به و گوشت را با رب گوجه بپزید."
   },
@@ -257,7 +257,7 @@
     "id": "30",
     "name": "لوبیا پلو",
     "categoryId": "1",
-    "image": "",
+    "image": "https://res.cloudinary.com/dd9toqv7r/image/upload/v1746195748/loobia-polo_jbulb1.jpg",
     "ingredients": ["برنج", "لوبیا چیتی", "گوشت", "دارچین", "زعفران"],
     "instructions": "لوبیا و گوشت را با برنج بپزید."
   },
